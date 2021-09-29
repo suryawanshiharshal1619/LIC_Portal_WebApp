@@ -1,0 +1,19 @@
+.modal-contentsignup {
+    background-color: #fefefe;
+    margin: 5% auto 15% auto;
+    border: 3px solid gray;
+    width: 50%;
+  
+}
+
+.imgcont {
+    text-align: center;
+    width: 100%;
+    align-self: center;
+    position: relative;
+}
+
+.imgs{
+    width: 40%;
+    height: 40%;
+}
